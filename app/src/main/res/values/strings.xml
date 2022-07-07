@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter app</string>
+    <string-array name="conversion_array">
+
+        <item>Centimeter - Inch</item>
+        <item>Kilometer - Miles</item>
+        <item>Kilogram - Lb</item>
+
+
+    </string-array>
+</resources>
